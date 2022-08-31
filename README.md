@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hey! Welcome to my page</h1>
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning Javascript
