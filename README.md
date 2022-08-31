@@ -5,6 +5,8 @@
 I'm Joakim, Shopify eCommerce Specialist and airline pilot from Oslo, Norway. <br>
 If you need a professional Shopify store or a private jet flight in a Challenger 850 then you have come to the right place. <br>
 
+<a href="https://freeimage.host/i/4iS5ps"><img src="https://iili.io/4iS5ps.md.jpg" alt="4iS5ps.md.jpg" border="0"></a>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="github" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
