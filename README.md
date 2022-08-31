@@ -1,10 +1,6 @@
-<h1>Hey! Welcome to my page</h1>
+<h2>Hey! Nice to see you here.</h2>
 
-- 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about: <br>
-      1. Shopify store setups <br>
-      2. Store migrations <br>
-      3. Conversion optimization
-      
-<!-- - 📫 How to reach me -->
+<h4>Welcome to my page!</h4>
+
+I'm Joakim, Shopify eCommerce Specialist and airline pilot from Oslo, Norway.
+If you need a professional Shopify store or a private jet flight in a Challenger 850 then you have come to the right place.
